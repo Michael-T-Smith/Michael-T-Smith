@@ -26,10 +26,5 @@ This journey wasn't about a checklist but a genuine passion to fathom the inner 
 
 With a decade of authentic, hands-on experience, I'm well-prepared to tackle complex issues and contribute to projects that benefit from a grounded, fundamental perspective on computing.
 
-### 🌍 Get in Touch
-
-- 📧 You can drop me an email at [Your Email Address].
-- 🤝 Let's connect on LinkedIn and discuss exciting projects: [LinkedIn Profile](https://www.linkedin.com/in/yourprofile).
-
 I'm always excited to collaborate on innovative projects and take on new programming adventures. Let's create something amazing together! 🚀
 
