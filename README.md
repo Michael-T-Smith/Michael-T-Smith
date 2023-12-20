@@ -28,3 +28,4 @@ With a decade of authentic, hands-on experience, I'm well-prepared to tackle com
 
 I'm always excited to collaborate on innovative projects and take on new programming adventures. Let's create something amazing together! 🚀
 
+This is my workplace profile that has my commit history overview more accurately depicted:  [Work Repo](https://github.com/MichaelT-Smith)
