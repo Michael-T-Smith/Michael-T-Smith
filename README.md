@@ -1,1 +1,5 @@
-Rust Engineer
+I am a software engineer focused on backend systems, infrastructure, and reliability. I don't tie my identity to a single language or framework because my background spans the full stack—from building web applications in Next.js down to writing C and dealing with bare-metal assembly concepts.
+
+Seeing the entire stack changed how I write code. It made me realize that framework conventions matter less than understanding how systems actually behave under the hood. When I build software, I focus on how data moves end-to-end, how services communicate, and where failure hides when a system runs under heavy concurrency or scale.I approach engineering from first principles. I prefer explicit control over state, highly predictable data flows, and systems designed to handle failure gracefully over "framework magic" or default configurations.
+
+Lately, I am spending most of my time working with Rust (specifically async runtimes like Tokio and Axum), optimizing structured queries in PostgreSQL, and deploying production infrastructure via Docker and AWS. I am also deepening my focus on distributed systems concepts like event processing, idempotency, and retry patterns.
