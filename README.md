@@ -1,46 +1,86 @@
-## Software Engineer | Embedded Systems / Backend Systems
+# Michael Tyler Smith
 
-I am a software engineer focused on building reliable systems that connect hardware, software, and users.
+## Software Engineer | Systems Integration, Embedded Software & Application Development
 
-My background began close to the hardware layer: embedded controllers, device communication, real-world constraints, and production software deployed in commercial products. Working in these environments shaped how I approach engineering problems: understanding system intention, designing around failure, creating with a purpose.
+I build software that connects hardware, applications, data, and real-world workflows.
 
-My current focus is expanding that systems perspective into backend engineering with Java, Spring Boot, databases, and service-oriented architectures.
+I have five years of professional software development experience across connected-vehicle systems, engineering automation, commercial applications, and independent full-stack development.
 
-I am particularly interested in the space where different engineering layers meet:
+My strongest experience is in systems integration: understanding how devices communicate, translating raw data into application behavior, debugging across system boundaries, and building software that supports production workflows.
 
-- Embedded devices communicating with software services
-- Backend systems processing real-world data
-- Reliable APIs and data architectures
-- Software designed for long-term operation and maintenance
+## Experience Highlights
 
-## Engineering Background
+* Analyzed RV-C/CAN traffic to integrate connected vehicle hardware with a commercial mobile application
+* Processed high-frequency device telemetry delivered through a Bluetooth communication layer
+* Integrated batteries, inverters, generators, smart engines, awnings, leveling systems, and other vehicle equipment
+* Reduced an approximately eight-minute engineering workflow to about three seconds through automation
+* Built a 2,000+ line AutoLISP application for production drawing transformation
+* Designed and deployed a PostgreSQL-backed full-stack e-commerce platform
+* Built an Arduino-to-Java serial telemetry demonstration
 
-**Embedded Systems**
-- C/C++
-- Microcontroller development
-- Hardware/software integration
-- Device communication protocols
-- Sensor and telemetry systems
+## Technical Background
 
-**Backend Development**
-- Java
-- Spring Boot
-- REST APIs
-- PostgreSQL
-- Maven
-- Database-driven applications
+**Primary languages:** JavaScript, TypeScript, AutoLISP
+**Additional experience:** C++, SQL, Kotlin, Java
+**Applications:** AngularJS, Ionic, Capacitor, React, Next.js
+**Systems integration:** RV-C, CAN bus analysis, BLE telemetry, serial/UART, Arduino
+**Data and infrastructure:** PostgreSQL, Docker, Linux, Git, Vercel, Neon
+**Build tools used:** Gradle, Maven
 
-**Systems Engineering**
-- Reliability and failure analysis
-- Interface design
-- State management
-- Production debugging
-- Software architecture
+## Featured Systems Project
 
-## Current Work
+### Arduino + JVM Telemetry
 
-I am building projects that explore the transition from connected devices into larger software ecosystems:
+A hardware-in-the-loop project connecting embedded firmware to a desktop receiver.
 
-Device → Communication Layer → Backend Services → Database → User Applications
+```text
+Analog Input
+     ↓
+Arduino Firmware
+     ↓
+Serial / UART
+     ↓
+JVM Application
+     ↓
+Telemetry Parsing and State Processing
+```
 
-The goal is aerospace employment utilizing my skillset, but thats a future hope. 
+The firmware samples input, applies threshold-based state logic, controls status LEDs, and transmits telemetry over serial.
+
+The receiving application configures the serial connection, reads newline-delimited messages, and converts device output into application-level state.
+
+## Current Direction
+
+I am developing deeper backend engineering skills with Java, Spring Boot, PostgreSQL, API design, testing, and service-oriented systems.
+
+This is an area of active development rather than the primary basis of my previous professional experience.
+
+My long-term goal is to contribute to aerospace, defense, industrial, or other high-reliability systems where embedded devices, communications, backend services, and operational software intersect.
+
+## Engineering Interests
+
+```
+Embedded Device
+      ↓
+Communication Protocol
+      ↓
+Application or Backend Service
+      ↓
+Persistent Data
+      ↓
+Operator or User Interface
+```
+
+I am particularly interested in:
+
+* Device-to-software communication
+* Telemetry ingestion and processing
+* Reliable interfaces between system layers
+* Backend services for connected systems
+* Software intended for long-term operation and maintenance
+
+## Connect
+
+[Portfolio](https://michaeltylersmith.com) ·
+[LinkedIn](https://linkedin.com/in/michael-tyler-smith) ·
+[Email](mailto:Michael.t.smith95@gmail.com)
